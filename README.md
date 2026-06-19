@@ -22,3 +22,5 @@ This project provides a reusable `Interpolated` class that animates values over 
 
 - Python 3.x
 - Pygame
+- 
+*Readme written with the help of github copilot*
